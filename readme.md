@@ -1,15 +1,6 @@
+# BayyNet Art Marketplace
+
 <img src="./public/favicon.png/" alt="Draw" width="200"/>
-
-# BayyNet NFT art platform
-
-[![GitHub stars](https://img.shields.io/github/stars/WilliamTuominiemi/NFT-Art-Platform.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/WilliamTuominiemi/NFT-Art-Platform/stargazers/) [![GitHub forks](https://img.shields.io/github/forks/WilliamTuominiemi/NFT-Art-Platform.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/WilliamTuominiemi/NFT-Art-Platform/network/)
-
-<p>
-    <a href="#About">About</a> •
-    <a href="#Features">Features</a> •
-    <a href="#Installation">Installation</a> •
-    <a href="#My-socials">My socials</a>
-</p>
 
 ## About
 
@@ -47,8 +38,8 @@ Basic ledger that saves information about the trade transactions.
 
 ## My socials
 
--   :email: Email: william.m.tuominiemi@gmail.com
--   :link: Github: https://github.com/WilliamTuominiemi
+- :email: Email: userstar713@gmail.com
+- :link: Github: https://github.com/Venus713
 
 ## License
 
